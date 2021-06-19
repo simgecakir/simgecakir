@@ -3,9 +3,11 @@
 
 I'm a senior Computer Engineering student at the Çukurova University
 
-<br><br>
+<br>
 
 🌱 I’m currently learning **iOS & Swift!**
+
+<br>
 
 ### Languages and Tools:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" /> 
