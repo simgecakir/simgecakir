@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simgecakir&label=Profile%20views&color=0e75b6&style=flat" alt="simgecakir" /> </p>
 
+- 🌱 I’m currently learning **iOS & Swift!**
+
 - 📫 How to reach me **simge1@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
