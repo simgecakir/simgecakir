@@ -10,7 +10,7 @@ I'm a senior Computer Engineering student at the Çukurova University
 <br>
 
 ### Languages and Tools:
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" /> 
+<img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" /> 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
