@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simgecakir&label=Profile%20views&color=0e75b6&style=flat" alt="simgecakir" /> </p>
 
-<br>
-
 ### Languages and Tools:
 <img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" /> 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
