@@ -1,11 +1,11 @@
 ### Hi, I'm Simge 👋
 <br>
 
-I'm a senior Computer Engineering student at the Çukurova University
+🌱 I’m currently learning **iOS & Swift!**
 
 <br>
 
-🌱 I’m currently learning **iOS & Swift!**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simgecakir&label=Profile%20views&color=0e75b6&style=flat" alt="simgecakir" /> </p>
 
 <br>
 
@@ -32,7 +32,3 @@ I'm a senior Computer Engineering student at the Çukurova University
 <br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simgecakir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simgecakir&label=Profile%20views&color=0e75b6&style=flat" alt="simgecakir" /> </p>
