@@ -2,7 +2,9 @@
 <br>
 
 🔭 I’m iOS Developer!
+<br>
 🌱 I’m currently learning **iOS & Swift!**
+<br>
 💬 Ask me about Swift!
 
 
