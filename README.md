@@ -1,7 +1,10 @@
 ### Hi, I'm Simge 👋
 <br>
 
+🔭 I’m iOS Developer!
 🌱 I’m currently learning **iOS & Swift!**
+💬 Ask me about Swift!
+
 
 <br>
 
